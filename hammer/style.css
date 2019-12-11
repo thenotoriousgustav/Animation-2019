@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    min-height: 100vh;
+    background: hsl(249, 51%, 52%);
+    /* display the graphic in the center of the viewport */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button.svelte-15wrvzp{background:none;border:none;outline:none}button.svelte-15wrvzp svg .handle.svelte-15wrvzp{transition:opacity 0.5s ease-in}button.svelte-15wrvzp:focus svg .handle.svelte-15wrvzp{opacity:1}button.svelte-15wrvzp svg .shadow.svelte-15wrvzp{transition:transform 0.5s ease-in}button.svelte-15wrvzp:focus svg .shadow.svelte-15wrvzp{transform:scale(1)}svg.svelte-15wrvzp{display:block;max-width:450px;width:90vw;height:auto}
